@@ -1,10 +1,10 @@
 # Portfolio Website
 
-This is the README file for my portfolio website built using React. 
+Hi! Welcome to my portfolio website built using React. 
 
 ## Description
 
-My portfolio website showcases my skills, projects, and experience as a software developer. It is built using React, a popular JavaScript library for building user interfaces.
+My portfolio website showcases my skills, projects, and experience as a software developer. 
 
 ## Features
 
